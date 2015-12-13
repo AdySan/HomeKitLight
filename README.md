@@ -10,11 +10,11 @@ This is a followup to the [Christmas Light](https://github.com/AdySan/ChristmasL
  
 </br>
 <p align="center">
-<img src="/images/Siri_light.png” align="middle"alt=“Siri” height="600">
+<img src="/images/circuit_bb.png" align="middle"alt="Circuit" height="600">
 </p>
 </br>
 <p align="center">
-<img src="/images/christmas_light.png” align="middle"alt="Circuit" height="600">
+<img src="/images/screenshot.png" align="middle" alt="webpage" height="600">
 </p>
 </br>
 
