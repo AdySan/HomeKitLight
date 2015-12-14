@@ -1,6 +1,6 @@
 # HomeKitLight
 
-This is a followup to the [Christmas Light](https://github.com/AdySan/ChristmasLight) project. This time we’re controlling the light with Siri using HomeKit.
+This is a followup to the [Christmas Light](https://github.com/AdySan/ChristmasLight) project. This time we’re controlling the light with Siri using HomeKit. More [here](http://adityatannu.com/blog/post/2015/12/13/ESP8266-based-HomeKit-accessories.html).
 
 ## Features
 
